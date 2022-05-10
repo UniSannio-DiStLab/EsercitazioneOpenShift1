@@ -1,4 +1,4 @@
-package it.unisannio;
+package it.unisannio.application;
 
 
 import it.unisannio.application.CurrencyConverterLocal;
